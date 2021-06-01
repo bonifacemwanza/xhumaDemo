@@ -61,17 +61,17 @@ main{
 }
 .section-header{
     border-bottom: 1px solid #f1f1f1;
-    height: 30px;
+    height: 35px;
     margin-bottom: 30px;
 }
 .section-header a{
-    padding: 5px 10px;
+    padding: 5px 0px;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 20px;
     text-decoration: none;
     color: #083464;
     border-bottom: 3px solid rgba(255, 255, 255, 0);
-    margin-right: 5px;
+    margin-right: 20px;
 }
 .section-header a:hover{
     border-bottom: 3px solid rgb(56,208,232);
@@ -229,7 +229,7 @@ section{
 }
 
 .section4{
-    margin: 0px auto;
+    margin: 30px auto;
     margin-top: 70px;
     width: 80%;
 }
@@ -237,7 +237,7 @@ section{
     font-size: 23px;
     font-weight: 700;
     color: #083464;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .S4-cards{
     width: 100%;
@@ -284,14 +284,14 @@ section{
 }
 .s5icons{
     width: 100%;
-    align-items: center;
     display: flex;
-    justify-content: space-evenly;
-    padding: 10px;
+    margin: 15px 0;
+    padding: 15px 0;
 }
 .s5icons span{
     align-items: center;
     display: flex;
+    margin-right: 20px;
 }
 .s5icons span img{
     margin: 0 5px;
